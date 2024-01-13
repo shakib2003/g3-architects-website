@@ -133,8 +133,8 @@ main {
 }
 
 .feature-img img {
-  height: 80%;
-  margin-left: 80px;
+  height: 90%;
+  margin-left: 90px;
 }
 
 .ten-years-badge  {
@@ -210,13 +210,13 @@ main {
   }
 
   .feature-img img {
-    width: 80%;
+    width: 90%;
     margin-left: 0;
   }
 
   .ten-years-badge {
     position: static;
-    max-width: 280px;
+    max-width: 300px;
   }
 
   .teams-img-container {
